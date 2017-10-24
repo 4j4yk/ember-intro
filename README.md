@@ -1,7 +1,9 @@
 # cybr8470-ember
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This README outlines the details of collaborating on this Ember application based on the learnings from CYBR8470 course.
+
+This is an lab assignment to practice basic emberjs framework, we follow a dedicated tutorial from ember guide portal and push the code to this repository.
+
 
 ## Prerequisites
 
@@ -33,6 +35,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember test`
 * `ember test --server`
 
+
 ### Building
 
 * `ember build` (development)
@@ -40,12 +43,21 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+Yet to be determined. 
 
 ## Further Reading / Useful Links
 
+Support and help can be found on these links - 
+
+* [Ember Guides](https://guides.emberjs.com/v2.16.0/tutorial/ember-cli/)
 * [ember.js](https://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+# License
+
+To be included ..
+
+
