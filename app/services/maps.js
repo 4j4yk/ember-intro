@@ -1,11 +1,9 @@
-import Service from '@ember/service';
 import { camelize } from '@ember/string';
 import EmberObject from '@ember/object';
-
+import Service from '@ember/service';
 import MapUtil from '../utils/google-maps';
 
 export default Service.extend({
-
   init() {
     if (!this.get('cachedMaps')) {
       this.set('cachedMaps', EmberObject.create());
@@ -30,6 +28,5 @@ export default Service.extend({
     let element = document.createElement('div');
     element.className = 'map';
     return element;
-  }
-
+  },
 });
